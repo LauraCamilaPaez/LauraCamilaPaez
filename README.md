@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LauraCamilaPaez](https://github.com/LauraCamilaPaez)
 
-- 📫 How to reach me **lcpaez061misena.edu.co**
+- 📫 How to reach me **lcpaez061@misena.edu.co**
 
 - ⚡ Fun fact **I think i'm funny**
 
