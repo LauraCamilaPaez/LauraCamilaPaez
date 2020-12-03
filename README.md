@@ -16,7 +16,7 @@
 <a href="https://twitter.com/lauracamilapez2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lauracamilapez2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laura camila paez barbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laura camila paez barbosa" height="30" width="40" /></a>
 <a href="https://fb.com/laura camila paez barbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="laura camila paez barbosa" height="30" width="40" /></a>
-<a href="https://instagram.com/xxlaurillaxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xxlaurillaxx" height="30" width="40" /></a>
+<a href="https://instagram.com/lauracamilapaez03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xxlaurillaxx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/laura camila paez barbosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="laura camila paez barbosa" height="30" width="40" /></a>
 </p>
 
