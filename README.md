@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laura Camila Paez ⌨</h1>
 <h3 align="center">A passionate frontend junior developer from Colombia</h3>
 
-- 🔭 I’m currently working on [SENA-LAB](https://github.com/LauraCamilaPaez/SENA-LAB.git)
+- 🔭 I’m currently working on [freeCodeCamp-React](https://github.com/LauraCamilaPaez/freeCodeCamp-React.git)
 
-- 🌱 I’m currently learning **PHP7, Laravel, JavaScript, CSS3, HTML5, MySQL**
+- 🌱 I’m currently learning **PHP7, Laravel, JavaScript, CSS3, HTML5, MySQL, React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LauraCamilaPaez](https://github.com/LauraCamilaPaez)
 
-- 📫 How to reach me **lcpaez061@misena.edu.co**
+- 📫 How to reach me **camilapaezbarbosa@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I think i'm optimistic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
