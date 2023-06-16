@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [freeCodeCamp-React](https://github.com/LauraCamilaPaez/freeCodeCamp-React.git)
 
-- 🌱 I’m currently learning **JavaScript, CSS3, HTML5, SASS, MONGO DB**
+- 🌱 I’m currently learning **JavaScript, React, CSS3, HTML5, SASS, MONGO DB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LauraCamilaPaez](https://github.com/LauraCamilaPaez)
 
